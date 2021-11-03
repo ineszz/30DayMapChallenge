@@ -4,4 +4,4 @@ Source: [here](https://github.com/tjukanovt/30DayMapChallenge)
 
 1. **Day3 - Polygons** 
 Python, matplotlib & geopandas, data source: http://geo-spatial.org
-<img src="https://github.com/ineszz/30DayMapChallenge/blob/main/day1.png" width=55% height=55%>
+<img src="https://github.com/ineszz/30DayMapChallenge/blob/main/day3.png" width=55% height=55%>
